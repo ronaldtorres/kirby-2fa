@@ -1,5 +1,7 @@
 # Kirby 2fa
 
+> Now Kirby supports passwordless and 2fa authentication natively!🤩.[See more](https://getkirby.com/docs/reference/system/options/auth).
+
 Two factor authentication for Kirby 3 panel.
 
 ![cover](https://raw.githubusercontent.com/graphicmarket/kirby-2fa/develop/.github/cover%20kiby2fa.png)
